@@ -1,0 +1,1 @@
+# Calculate sin and tan values using the small-angle approximation
